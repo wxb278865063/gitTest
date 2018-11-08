@@ -2,3 +2,4 @@ abcdefg
 test merge 
 test local update
 test remote update
+learn confilict
