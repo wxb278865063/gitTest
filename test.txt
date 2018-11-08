@@ -1,3 +1,4 @@
 abcdefg
 test merge 
 test local update
+test confilict
