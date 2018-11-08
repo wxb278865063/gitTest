@@ -1,7 +1,1 @@
-abcdefg
-test merge 
-test local update
-test confilict
-test remote confilict
-test remote update
-test local update second
+
